@@ -1,0 +1,6 @@
+{
+  "name": "티처토닥 (Teacher Todak) - 지친 교사를 위한 마음 쉼터 & AI 상담",
+  "description": "악성 민원, 과중한 업무, 교실 속 소진으로 힘든 선생님들을 위한 따뜻한 공감 상담과 마음 회복 공간",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
